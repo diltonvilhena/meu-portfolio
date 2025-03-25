@@ -816,6 +816,15 @@ section {
     .home-img {
         margin: 0 auto;
     }
+
+    .skills-content{
+        display: flex;
+        justify-content: center;
+        gap: 4rem;
+        flex-wrap: wrap;
+        align-content: center;
+        flex-direction: row;
+    }
 }
 
 
