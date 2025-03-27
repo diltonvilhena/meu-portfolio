@@ -3,7 +3,7 @@
 ![Preview do Portfólio](assets/preview.png) 
 
 ## 📋 Sobre o Projeto
-Portfólio profissional desenvolvido para demonstrar habilidades, projetos e experiências como Desenvolvedor Full Stack. O design é moderno, responsivo e otimizado para recrutadores.
+Portfólio profissional desenvolvido para demonstrar habilidades, projetos e experiências como Desenvolvedor Full Stack. O design é moderno, responsivo.
 
 ## ✨ Funcionalidades
 - ✔ Navegação suave entre seções
